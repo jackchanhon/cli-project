@@ -1,0 +1,19 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "description": "command project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.test.js"
+  },
+  "author": "Jack Chan Yoong Hon",
+  "license": "ISC",
+  "dependencies": {
+    "@adonisjs/ace": "^5.0.8",
+    "chai": "^4.2.0",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.1",
+    "loadash": "^1.0.0",
+    "mocha": "^8.0.1"
+  }
+}
