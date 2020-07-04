@@ -26,10 +26,12 @@ CLI Project for technical assesment
 6. CLI Command will prompt you to enter input, you can enter any input like "Winnie the Pooh", “Hello  World" and etc
   ```
   Please enter your input: 
-    ```
+  ```
+  
 7. After you click enter button, answer will be shown in output command and csv file is generated in root directory. 
 
 8. I have attached command line in 'assests/command.png'
+
 
 # Unit Test
 1.  run following command 
